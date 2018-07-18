@@ -1,6 +1,6 @@
 /* Enter the code to remove the main node element under this comment */
 var element = document.createElement('div');
-element.innerHTML = 'Hello, DOM!'
+element.innerHTML = 'Hello, DOM!';
 document.body.appendChild(element);
 
 
